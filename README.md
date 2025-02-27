@@ -7,11 +7,11 @@
 - ⚡ Fun fact: ...
 height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHHEANGUdomveasna&show_icons=true&locale=en&layout=compact" alt="CHHEANGUdomveasna" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHHEANG-UDOMVEASNA&show_icons=true&locale=en&layout=compact" alt="CHHEANG-UDOMVEASNA" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CHHEANGUdomveasna&show_icons=true&locale=en" alt="CHHEANGUdomveasna" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CHHEANG-UDOMVEASNA&show_icons=true&locale=en" alt="CHHEANG-UDOMVEASNA" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CHHEANGUdomveasna&" alt="CHHEANGUdomveasna" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CHHEANG-UDOMVEASNA&" alt="CHHEANG-UDOMVEASNA" /></p>
 <!---
 CHHEANGUdomveasna/CHHEANGUdomveasna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
